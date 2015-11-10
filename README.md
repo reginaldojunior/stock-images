@@ -3,5 +3,3 @@
 > A curated list of stock images that don't suck.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
-## List
