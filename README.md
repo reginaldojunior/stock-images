@@ -7,3 +7,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pexels](https://www.pexels.com/)
 - [Stocksnap](https://stocksnap.io/)
 - [Coverr](http://coverr.co/)
+- [Visual Hunt](http://visualhunt.com/)
